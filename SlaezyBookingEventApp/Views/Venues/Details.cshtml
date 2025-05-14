@@ -1,0 +1,63 @@
+﻿@model SlaezyBookingEventApp.Models.Venue
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+@if (Model == null)
+{
+    <div>
+        <h4>Venue not found</h4>
+        <hr />
+        <p>The requested venue could not be found.</p>
+        <div>
+            <a asp-action="Index">Back to List</a>
+        </div>
+    </div>
+}
+else
+{
+    <div>
+        <h4>Venue</h4>
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.VenueName)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.VenueName)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Location)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Location)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Capacity)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Capacity)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.ImageURL)
+            </dt>
+            <dd class="col-sm-10">
+                @if (!string.IsNullOrEmpty(Model.ImageURL))
+                {
+                    <img src="@Html.DisplayFor(model => model.ImageURL)" alt="@Model.VenueName" style="max-width: 200px;" />
+                }
+                else
+                {
+                    <span>No image available</span>
+                }
+            </dd>
+        </dl>
+    </div>
+    <div>
+        <a asp-action="Edit" asp-route-id="@Model?.VenueID">Edit</a> |
+        <a asp-action="Index">Back to List</a>
+    </div>
+}

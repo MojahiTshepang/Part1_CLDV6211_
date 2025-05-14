@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\Part1_CLDV6211_\\SlaezyBookingEventsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21AA33CD-AF06-49AD-9E51-B0CFC86E0855}|SlaezyBookingEventsApp1.csproj|c:\\users\\lab_services_student\\desktop\\part1_cldv6211_\\slaezybookingeventsapp1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AA33CD-AF06-49AD-9E51-B0CFC86E0855}|SlaezyBookingEventsApp1.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AA33CD-AF06-49AD-9E51-B0CFC86E0855}|SlaezyBookingEventsApp1.csproj|C:\\Users\\lab_services_student\\Desktop\\Part1_CLDV6211_\\SlaezyBookingEventsApp1\\controllers\\eventsscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AA33CD-AF06-49AD-9E51-B0CFC86E0855}|SlaezyBookingEventsApp1.csproj|solutionrelative:controllers\\eventsscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AA33CD-AF06-49AD-9E51-B0CFC86E0855}|SlaezyBookingEventsApp1.csproj|C:\\Users\\lab_services_student\\Desktop\\Part1_CLDV6211_\\SlaezyBookingEventsApp1\\models\\eventss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AA33CD-AF06-49AD-9E51-B0CFC86E0855}|SlaezyBookingEventsApp1.csproj|solutionrelative:models\\eventss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AA33CD-AF06-49AD-9E51-B0CFC86E0855}|SlaezyBookingEventsApp1.csproj|C:\\Users\\lab_services_student\\Desktop\\Part1_CLDV6211_\\SlaezyBookingEventsApp1\\models\\sleazyeventdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AA33CD-AF06-49AD-9E51-B0CFC86E0855}|SlaezyBookingEventsApp1.csproj|solutionrelative:models\\sleazyeventdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Part1_CLDV6211_\\SlaezyBookingEventsApp1\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Part1_CLDV6211_\\SlaezyBookingEventsApp1\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T15:21:07.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventssController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Part1_CLDV6211_\\SlaezyBookingEventsApp1\\Controllers\\EventssController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventssController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Part1_CLDV6211_\\SlaezyBookingEventsApp1\\Controllers\\EventssController.cs",
+              "RelativeToolTip": "Controllers\\EventssController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T15:20:12.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Eventss.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Part1_CLDV6211_\\SlaezyBookingEventsApp1\\Models\\Eventss.cs",
+              "RelativeDocumentMoniker": "Models\\Eventss.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Part1_CLDV6211_\\SlaezyBookingEventsApp1\\Models\\Eventss.cs",
+              "RelativeToolTip": "Models\\Eventss.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T15:17:04.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SleazyEventDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Part1_CLDV6211_\\SlaezyBookingEventsApp1\\Models\\SleazyEventDBContext.cs",
+              "RelativeDocumentMoniker": "Models\\SleazyEventDBContext.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Part1_CLDV6211_\\SlaezyBookingEventsApp1\\Models\\SleazyEventDBContext.cs",
+              "RelativeToolTip": "Models\\SleazyEventDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T15:15:33.254Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
